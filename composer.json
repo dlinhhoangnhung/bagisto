@@ -19,6 +19,7 @@
         "ext-tokenizer": "*",
         "astrotomic/laravel-translatable": "^11.0.0",
         "barryvdh/laravel-dompdf": "^2.0.0",
+        "codenteq/stripe-payment-gateway": "^1.5",
         "diglactic/laravel-breadcrumbs": "^8.0",
         "doctrine/dbal": "^3.0",
         "elasticsearch/elasticsearch": "^8.10",
@@ -93,7 +94,8 @@
             "Webkul\\SocialShare\\": "packages/Webkul/SocialShare/src",
             "Webkul\\Tax\\": "packages/Webkul/Tax/src",
             "Webkul\\Theme\\": "packages/Webkul/Theme/src",
-            "Webkul\\User\\": "packages/Webkul/User/src"
+            "Webkul\\User\\": "packages/Webkul/User/src",
+            "Webkul\\Blog\\": "packages/Webkul/Blog/src"
         }
     },
     "autoload-dev": {
